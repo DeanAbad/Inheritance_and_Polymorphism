@@ -1,7 +1,12 @@
 # Inheritance
-Just made a demonstration how inheritance works, and for now this repository only consists of multiple inheritance.
+A repository for demonstrations of different types of inheritance with C++.
 
 ## Usage
 1. Simply enter one of the folders which indicates the type of inheritance.
 2. Download either the source code or application, or both to test later on the inderitance in action.
-3. ~~Help me with errors just in case. Please help me.~~
+
+## Note
+- The Multilevel/Game_Player_Class_Example/main.cpp is incomplete in terms of possible functionalities
+  its classes' members i.e. they were not fully used, however, the multilevel inheritance is still applied.
+  I am not certain of the time when it will be completed (e.g. to function fully like a mock game), but
+  for now at least it serves its purpose.
