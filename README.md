@@ -1,4 +1,4 @@
-# Inheritance
+# Inheritance and Polymorphism
 A repository of demonstrations of inheritance and polymorphism.
 
 ## Usage
